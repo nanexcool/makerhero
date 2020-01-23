@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/makerhero/static/css/main.d1b05096.chunk.css",
+    "main.js": "/makerhero/static/js/main.8f13f41f.chunk.js",
+    "main.js.map": "/makerhero/static/js/main.8f13f41f.chunk.js.map",
+    "runtime-main.js": "/makerhero/static/js/runtime-main.2b0e7e6e.js",
+    "runtime-main.js.map": "/makerhero/static/js/runtime-main.2b0e7e6e.js.map",
+    "static/js/2.cbf736e9.chunk.js": "/makerhero/static/js/2.cbf736e9.chunk.js",
+    "static/js/2.cbf736e9.chunk.js.map": "/makerhero/static/js/2.cbf736e9.chunk.js.map",
+    "index.html": "/makerhero/index.html",
+    "precache-manifest.43d02bd4a3526670b4f0f69cc9b1421f.js": "/makerhero/precache-manifest.43d02bd4a3526670b4f0f69cc9b1421f.js",
+    "service-worker.js": "/makerhero/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/makerhero/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.cbf736e9.chunk.js.LICENSE": "/makerhero/static/js/2.cbf736e9.chunk.js.LICENSE",
+    "static/media/logo.svg": "/makerhero/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b0e7e6e.js",
+    "static/js/2.cbf736e9.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8f13f41f.chunk.js"
+  ]
+}
